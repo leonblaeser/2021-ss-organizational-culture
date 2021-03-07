@@ -40,6 +40,33 @@ According to this, **every** organization forms a culture that determines the co
 
 ---
 
-## Slide 3
+# Organizational Culture
 
-# test
+## 3. Reasoning 
+
+### Why do we need organizational culture?
+
+- Company`s internal and external **identity**
+- **Brand image** of the organization
+- Controls employees **behaviour**
+- Promotes **healthy relationships** 
+- Sets predefined policies for **internal alignment**
+
+---
+
+### Why do we need organizational culture?
+- Transfoms employees into a team 
+- Helps to keep human resources in *War for talents*
+- Supports onboarding
+
+---
+
+### Why do need organizational culture?
+We need organizational culture because it supports: 
+- Trust in the organization
+- Psychological safety
+- Integrity 
+- Employer branding 
+
+---
+
