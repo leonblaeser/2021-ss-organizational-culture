@@ -1,20 +1,42 @@
 # Organizational Culture
 
-## test test
+## Agenda
 
-123
+1. Introduction
+2. Definition
+3. Reasoning
+4. Iceberg-Model
+5. Example Hard-Culture Enron
+6. Example Soft-Culture 3M
+7. Miro-Break-Out
+8. Implementation
 
 ---
 
-<<<<<<< Updated upstream
-hello my name is
-test test viola
-=======
+# Organizational Culture
 
-# Slide 2
+## 1. Introduction
 
-- test
-- test
+> _"Culture eats strategy."_
+
+Peter F. Druckner (Austrian Management Consultant)
+
+---
+
+# Organizational Culture
+
+## 2. Definition
+
+Results from the interplay of:
+
+- Values
+- Norms
+- Attitudes
+- Paradigms
+
+... that employees collectively share.
+
+According to this, **every** organization forms a culture that determines the collective organizational behavior **and** behavior of individuals in organizations.
 
 ---
 
