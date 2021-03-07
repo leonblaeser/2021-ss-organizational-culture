@@ -91,13 +91,45 @@ BILD
 
 ## 5.1 Characteristics Hard-Culture
 
+A hard culture covers the "visible" factors of the Iceberg-Model
+
+- Strong & powerful climate (**Strategy**)
+- Focus on organizational goals (**Shared values, Goals, Vision**)
+- Top-down decision-making (**Structures, Policies, Procedures**)
+- High hierarchies (**Structure, Policies**)
+
 ---
 
 # Organizational Culture
 
 ## 5.2 Example: Hard-Culture Enron
 
+Enron: American energy & services company
+
+- **Jeff Skilling** as COO and president 
+- Implemented hard-culture system *rank and yank* which supported corruption and a lack of ethical decision-making
+- Enron`s culture was only in **favor of its leaders**
+
+**Extract from Enron`s organizational culture:**
+
+> _"[…]“The desire to sustain these rewards encouraged employees to engage in
+deal making and complicated, questionable accounting procedures that
+would help the company meet its quarterly earnings, with little concern
+about how this would impact the long term financial health of the
+company” (Kerr, 1975)._
+
 ---
+
+# Organizational Culture
+
+## 5.2 Example: Hard-Culture Enron
+
+ As a result of this hard culture Enron was able to be very profitable at first...
+
+
+**BUT:**
+
+In 2001 Enron had to file for insolvency.The hard but toxic culture eventually lead to the **downfall** of Enron- making it a company out of many who concentrated too much on the *visible factors* and no attention to the *invisible factors*. 
 
 # Organizational Culture
 
