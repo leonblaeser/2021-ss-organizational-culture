@@ -8,7 +8,7 @@
 4. Iceberg-Model
 5. Characteristics Hard-Culture (Enron)
 6. Characteristics Soft-Culture (3M)
-7. Miro-Break-Out
+7. Miro Breakout Session
 8. Implementation
 
 ---
@@ -106,17 +106,17 @@ A hard culture covers the "visible" factors of the Iceberg-Model
 
 Enron: American energy & services company
 
-- **Jeff Skilling** as COO and president 
-- Implemented hard-culture system *rank and yank* which supported corruption and a lack of ethical decision-making
+- **Jeff Skilling** as COO and president
+- Implemented hard-culture system _rank and yank_ which supported corruption and a lack of ethical decision-making
 - Enron`s culture was only in **favor of its leaders**
 
 **Extract from Enron`s organizational culture:**
 
 > _"[…]“The desire to sustain these rewards encouraged employees to engage in
-deal making and complicated, questionable accounting procedures that
-would help the company meet its quarterly earnings, with little concern
-about how this would impact the long term financial health of the
-company” (Kerr, 1975)._
+> deal making and complicated, questionable accounting procedures that
+> would help the company meet its quarterly earnings, with little concern
+> about how this would impact the long term financial health of the
+> company” (Kerr, 1975)._
 
 ---
 
@@ -124,12 +124,11 @@ company” (Kerr, 1975)._
 
 ## 5.2 Example: Hard-Culture Enron
 
- As a result of this hard culture Enron was able to be very profitable at first...
-
+As a result of this hard culture Enron was able to be very profitable at first...
 
 **BUT:**
 
-In 2001 Enron had to file for insolvency.The hard but toxic culture eventually lead to the **downfall** of Enron- making it a company out of many who concentrated too much on the *visible factors* and no attention to the *invisible factors*. 
+In 2001 Enron had to file for insolvency.The hard but toxic culture eventually lead to the **downfall** of Enron- making it a company out of many who concentrated too much on the _visible factors_ and no attention to the _invisible factors_.
 
 # Organizational Culture
 
@@ -174,3 +173,33 @@ As a result of this soft and innovative culture 3M developed a new core competen
 **BUT:**
 
 In the early 1990s 3M seemed to have lost its grip on **financial** and **strategical** ressources (_visible factors_). Way to many costly investments in people and products failed to generate the desired results. While no breakthrough product had been launched since the 1980s Post-It note.
+
+---
+
+# Organizational Culture
+
+## 7. Miro Breakout Session
+
+BILD M I R O B R E A K O U T S E S S I O N
+
+---
+
+# Organizational Culture
+
+## 8. Implementation
+
+| **Team-oriented approach**      |      Are      |
+| ------------------------------- | :-----------: |
+| Strategy implementation         |   are neat    |
+| Leaders as culture advocates    |   centered    |
+| Vision / Mission implementation | right-aligned |
+| Live company values / morals    |   are neat    |
+| Forge internal connections      |   centered    |
+| Personalize employee experience |   are neat    |
+| Continuous improvement process  |   centered    |
+
+---
+
+# Organizational Culture
+
+## Conclusion
