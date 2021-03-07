@@ -6,8 +6,8 @@
 2. Definition
 3. Reasoning
 4. Iceberg-Model
-5. Example Hard-Culture Enron
-6. Example Soft-Culture 3M
+5. Characteristics Hard-Culture (Enron)
+6. Characteristics Soft-Culture (3M)
 7. Miro-Break-Out
 8. Implementation
 
@@ -42,31 +42,103 @@ According to this, **every** organization forms a culture that determines the co
 
 # Organizational Culture
 
-## 3. Reasoning 
-
-### Why do we need organizational culture?
+## 3.1 Reasoning - Why do we need organizational culture?
 
 - Company`s internal and external **identity**
 - **Brand image** of the organization
 - Controls employees **behaviour**
-- Promotes **healthy relationships** 
+- Promotes **healthy relationships**
 - Sets predefined policies for **internal alignment**
 
 ---
 
-### Why do we need organizational culture?
-- Transfoms employees into a team 
-- Helps to keep human resources in *War for talents*
+# Organizational Culture
+
+## 3.2 Reasoning - Why do we need organizational culture?
+
+- Transforms employees into a team
+- Helps to keep human resources in _War for talents_
 - Supports onboarding
 
 ---
 
-### Why do need organizational culture?
-We need organizational culture because it supports: 
+# Organizational Culture
+
+## 3.3 Reasoning - Why do we need organizational culture?
+
+We need organizational culture because it supports:
+
 - Trust in the organization
 - Psychological safety
-- Integrity 
-- Employer branding 
+- Integrity
+- Employer branding
 
 ---
 
+# Organizational Culture
+
+## 4. Iceberg-Model
+
+BILD
+(alle fettgedruckten Wörter in Eisberg einbauen)
+
+- Visible Factors erklären (Tonspur) V
+- Invisible Factors erklären (Tonspur) L
+
+---
+
+# Organizational Culture
+
+## 5.1 Characteristics Hard-Culture
+
+---
+
+# Organizational Culture
+
+## 5.2 Example: Hard-Culture Enron
+
+---
+
+# Organizational Culture
+
+## 6.1 Characteristics Soft-Culture
+
+A soft culture covers the "invisible" factors of the Iceberg-Model
+
+- Values and ethical guidelines (**Rules, Values, Norms**)
+- Inclusion (**Status**)
+- Participation (**Rules, Relationship**)
+- Equality (**Rules, Status**)
+- Low hierarchies (**Rules, Status, Relationship**)
+
+---
+
+# Organizational Culture
+
+## 6.2 Example: Soft-Culture 3M
+
+3M representor of 20th century innovations:
+
+- Core competence **M**innesota **M**ining and **M**anufacturing company\*\* (3Ms)
+- Innovative & low hierachical culture: 15% of working time could be spent on self-initiative projects
+- Employees had direct ways to promote their own projects to exec. management
+
+**Extract from 3Ms organizational culture:**
+
+> _"[…] Management that is destructively critical when mistakes are made kills initiative. And its essential that we have many people with initiative if we are to continue to grow."_
+
+---
+
+# Organizational Culture
+
+## 6.2 Example: Soft-Culture 3M
+
+As a result of this soft and innovative culture 3M developed a new core competence, because employees developed projects such as:
+
+- Cellotape
+- Magnetic tape
+- Post-It Note
+
+**BUT:**
+
+In the early 1990s 3M seemed to have lost its grip on **financial** and **strategical** ressources (_visible factors_). Way to many costly investments in people and products failed to generate the desired results. While no breakthrough product had been launched since the 1980s Post-It note.
