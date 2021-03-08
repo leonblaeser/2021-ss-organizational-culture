@@ -80,7 +80,7 @@ BILD
 A hard culture covers the "visible" factors of the Iceberg-Model
 
 - Strong & powerful climate (**Strategy**)
-- Focus on organizational goals (**Shared values, Goals, Vision**)
+- Focus on organizational goals (**Compliance, Goals, Vision**)
 - Top-down decision-making (**Structures, Policies, Procedures**)
 - High hierarchies (**Structure, Policies**)
 
@@ -122,8 +122,8 @@ In 2001 Enron had to file for insolvency.The hard but toxic culture eventually l
 
 A soft culture covers the "invisible" factors of the Iceberg-Model
 
-- Values and ethical guidelines (**Rules, Values, Norms**)
-- Inclusion (**Status**)
+- Values and ethical guidelines (**Rules, Values, Norms, Ideals**)
+- Inclusion (**Status, Tradition**)
 - Participation (**Rules, Relationship**)
 - Equality (**Rules, Status**)
 - Low hierarchies (**Rules, Status, Relationship**)
