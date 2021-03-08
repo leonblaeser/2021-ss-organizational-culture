@@ -94,6 +94,10 @@ Enron: American energy & services company
 - Implemented hard-culture system _rank and yank_ which supported corruption and a lack of ethical decision-making
 - Enron`s culture was only in **favor of its leaders**
 
+---
+
+### 5.2 Example: Hard-Culture Enron
+
 **Extract from Enron`s organizational culture:**
 
 > _"[…]“The desire to sustain these rewards encouraged employees to engage in
@@ -111,6 +115,8 @@ As a result of this hard culture Enron was able to be very profitable at first..
 **BUT:**
 
 In 2001 Enron had to file for insolvency.The hard but toxic culture eventually lead to the **downfall** of Enron- making it a company out of many who concentrated too much on the _visible factors_ and no attention to the _invisible factors_.
+
+---
 
 ### 6.1 Characteristics Soft-Culture
 
@@ -132,6 +138,10 @@ A soft culture covers the "invisible" factors of the Iceberg-Model
 - Innovative & low hierachical culture: 15% of working time could be spent on self-initiative projects
 - Employees had direct ways to promote their own projects to exec. management
 
+---
+
+### 6.2 Example: Soft-Culture 3M
+
 **Extract from 3Ms organizational culture:**
 
 > _"[…] Management that is destructively critical when mistakes are made kills initiative. And its essential that we have many people with initiative if we are to continue to grow."_
@@ -140,11 +150,7 @@ A soft culture covers the "invisible" factors of the Iceberg-Model
 
 ### 6.2 Example: Soft-Culture 3M
 
-As a result of this soft and innovative culture 3M developed a new core competence, because employees developed projects such as:
-
-- Cellotape
-- Magnetic tape
-- Post-It Note
+As a result of this soft and innovative culture 3M developed a new core competence.(Post-It-Note, Cellotape, Magnetic tape)
 
 **BUT:**
 
