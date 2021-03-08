@@ -1,4 +1,10 @@
-## Organizational Culture
+# Organizational Culture
+
+### CBS SS 2021 Digital Organization
+
+### _Viola Ates & Leon Blaeser_
+
+---
 
 ### Agenda
 
@@ -67,17 +73,13 @@ We need organizational culture because it supports:
 
 ### 4. Iceberg-Model
 
-BILD
-(alle fettgedruckten Wörter in Eisberg einbauen)
-
-- Visible Factors erklären (Tonspur) V
-- Invisible Factors erklären (Tonspur) L
+![iceberg](Iceberg.jpg)
 
 ---
 
 ### 5.1 Characteristics Hard-Culture
 
-A hard culture covers the "visible" factors of the Iceberg-Model
+A hard culture covers the "visible" factors of the Iceberg-Model:
 
 - Strong & powerful climate (**Strategy**)
 - Focus on organizational goals (**Compliance, Goals, Vision**)
@@ -98,29 +100,30 @@ Enron: American energy & services company
 
 ### 5.2 Example: Hard-Culture Enron
 
-**Extract from Enron`s organizational culture:**
+**Extract from Enrons organizational culture:**
 
 > _"[…]“The desire to sustain these rewards encouraged employees to engage in
 > deal making and complicated, questionable accounting procedures that
 > would help the company meet its quarterly earnings, with little concern
 > about how this would impact the long term financial health of the
-> company” (Kerr, 1975)._
+> company.” (Kerr, 1975)_
 
 ---
 
 ### 5.2 Example: Hard-Culture Enron
 
-As a result of this hard culture Enron was able to be very profitable at first...
+- Enron was very profitable at first...
 
 **BUT:**
 
-In 2001 Enron had to file for insolvency.The hard but toxic culture eventually lead to the **downfall** of Enron- making it a company out of many who concentrated too much on the _visible factors_ and no attention to the _invisible factors_.
+- 2001 Enron had to file for **insolvency**
+- Hard but toxic culture lead to the **downfall**
 
 ---
 
 ### 6.1 Characteristics Soft-Culture
 
-A soft culture covers the "invisible" factors of the Iceberg-Model
+A soft culture covers the "invisible" factors of the Iceberg-Model:
 
 - Values and ethical guidelines (**Rules, Values, Norms, Ideals**)
 - Inclusion (**Status, Tradition**)
@@ -134,8 +137,7 @@ A soft culture covers the "invisible" factors of the Iceberg-Model
 
 3M representor of 20th century innovations:
 
-- Core competence **M**innesota **M**ining and **M**anufacturing company\*\* (3Ms)
-- Innovative & low hierachical culture: 15% of working time could be spent on self-initiative projects
+- Innovative & low hierarchical culture: 15% of working time could be spent on self-initiative projects
 - Employees had direct ways to promote their own projects to exec. management
 
 ---
@@ -144,23 +146,26 @@ A soft culture covers the "invisible" factors of the Iceberg-Model
 
 **Extract from 3Ms organizational culture:**
 
-> _"[…] Management that is destructively critical when mistakes are made kills initiative. And its essential that we have many people with initiative if we are to continue to grow."_
+> _"[…] Management that is destructively critical when mistakes are made kills initiative. And its essential that we have many people with initiative if we are to continue to grow. (De Wit, 2020)"_
 
 ---
 
 ### 6.2 Example: Soft-Culture 3M
 
-As a result of this soft and innovative culture 3M developed a new core competence.(Post-It-Note, Cellotape, Magnetic tape)
+- 3M developed a new core competence
+- Resulting in products such as: Post-It-Note, Cellotape, Magnetic tape
 
 **BUT:**
 
-In the early 1990s 3M seemed to have lost its grip on **financial** and **strategical** ressources (_visible factors_). Way to many costly investments in people and products failed to generate the desired results. While no breakthrough product had been launched since the 1980s Post-It note.
+- 1990s 3M lost grip on **financial** and **strategical** resources
+- Too many costly investments
+- No breakthrough product since Post-It note
 
 ---
 
 ### 7. Miro Breakout Session
 
-BILD M I R O B R E A K O U T S E S S I O N
+![miro](Miro-Session.jpg)
 
 ---
 
@@ -185,3 +190,31 @@ Result:
   - Tendency towards harder culture
 - One-way-cultures tend to tip over in the long-run
 - Hierarchies should be taken out of the equation, but it should be ensured that leading management positions have appropriate soft skills
+
+---
+
+# Thank you for your attention!
+
+## Any questions?
+
+---
+
+### References 1
+
+"No rules rules, NETLFIX and the Culture of Reinvention", Hastings (2020)
+
+"Strategy - an international perspective", De Wit (2020)
+
+https://www.managementstudyguide.com/importance-of-organization-culture.htm
+
+https://www.notredameonline.com/resources/business-administration/understanding-organizational-culture-and-its-benefits/
+
+---
+
+### References 2
+
+https://sites.psu.edu/psy816mastroianni/2019/11/24/how-toxic-leadership-brought-down-the-enron-empire/​
+
+https://www.3m.com/3M/en_US/ethics-compliance/code/about-our-code/
+
+https://assets.kpmg/content/dam/kpmg/co/pdf/co-17-01-09-hc-five-steps-to-tackling-culture.pdf
