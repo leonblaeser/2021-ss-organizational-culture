@@ -160,16 +160,21 @@ BILD M I R O B R E A K O U T S E S S I O N
 
 ### 8. Implementation
 
-| **Team-oriented approach**      |      **HR approach**    |
-| ------------------------------- | :-----------: |
-| Strategy implementation         |Specified hiring process
-| Leaders as culture advocates    |Reward & recognition programs
-| Vision / Mission implementation |Onboarding programs|
-| Live company values / morals    |Assessment instrument  |
-| Forge internal connections      |Employee focus groups  |
-| Personalize employee experience |Perf. management programs
-| Continuous improvement process
+| **Team-oriented approach**      | **HR approach**               |
+| ------------------------------- | ----------------------------- |
+| Strategy implementation         | Specified hiring process      |
+| Leaders as culture advocates    | Reward & recognition programs |
+| Vision / Mission implementation | Onboarding programs           |
+| Live company values / morals    | Assessment instrument         |
+| Forge internal connections      | Employee focus groups         |
+| Personalize employee experience | Perf. management programs     |
 
 ---
 
 ### Conclusion
+
+Result:
+
+- Mixture between soft- & hard-culture is essential
+- One-way-cultures tend to tip over in the long-run
+- Hierarchies should be taken out of the equation, but it should be ensured that leading management positions have appropriate soft skills
