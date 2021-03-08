@@ -182,5 +182,6 @@ BILD M I R O B R E A K O U T S E S S I O N
 Result:
 
 - Mixture between soft- & hard-culture is essential
+  - Tendency towards harder culture
 - One-way-cultures tend to tip over in the long-run
 - Hierarchies should be taken out of the equation, but it should be ensured that leading management positions have appropriate soft skills
