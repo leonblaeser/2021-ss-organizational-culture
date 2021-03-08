@@ -1,6 +1,6 @@
-# Organizational Culture
+## Organizational Culture
 
-## Agenda
+### Agenda
 
 1. Introduction
 2. Definition
@@ -13,9 +13,7 @@
 
 ---
 
-# Organizational Culture
-
-## 1. Introduction
+### 1. Introduction
 
 > _"Culture eats strategy."_
 
@@ -23,9 +21,7 @@ Peter F. Druckner (Austrian Management Consultant)
 
 ---
 
-# Organizational Culture
-
-## 2. Definition
+### 2. Definition
 
 Results from the interplay of:
 
@@ -40,9 +36,7 @@ According to this, **every** organization forms a culture that determines the co
 
 ---
 
-# Organizational Culture
-
-## 3.1 Reasoning - Why do we need organizational culture?
+### 3.1 Reasoning - Why do we need organizational culture?
 
 - Company`s internal and external **identity**
 - **Brand image** of the organization
@@ -52,9 +46,7 @@ According to this, **every** organization forms a culture that determines the co
 
 ---
 
-# Organizational Culture
-
-## 3.2 Reasoning - Why do we need organizational culture?
+### 3.2 Reasoning - Why do we need organizational culture?
 
 - Transforms employees into a team
 - Helps to keep human resources in _War for talents_
@@ -62,9 +54,7 @@ According to this, **every** organization forms a culture that determines the co
 
 ---
 
-# Organizational Culture
-
-## 3.3 Reasoning - Why do we need organizational culture?
+### 3.3 Reasoning - Why do we need organizational culture?
 
 We need organizational culture because it supports:
 
@@ -75,9 +65,7 @@ We need organizational culture because it supports:
 
 ---
 
-# Organizational Culture
-
-## 4. Iceberg-Model
+### 4. Iceberg-Model
 
 BILD
 (alle fettgedruckten Wörter in Eisberg einbauen)
@@ -87,9 +75,7 @@ BILD
 
 ---
 
-# Organizational Culture
-
-## 5.1 Characteristics Hard-Culture
+### 5.1 Characteristics Hard-Culture
 
 A hard culture covers the "visible" factors of the Iceberg-Model
 
@@ -100,9 +86,7 @@ A hard culture covers the "visible" factors of the Iceberg-Model
 
 ---
 
-# Organizational Culture
-
-## 5.2 Example: Hard-Culture Enron
+### 5.2 Example: Hard-Culture Enron
 
 Enron: American energy & services company
 
@@ -120,9 +104,7 @@ Enron: American energy & services company
 
 ---
 
-# Organizational Culture
-
-## 5.2 Example: Hard-Culture Enron
+### 5.2 Example: Hard-Culture Enron
 
 As a result of this hard culture Enron was able to be very profitable at first...
 
@@ -130,9 +112,7 @@ As a result of this hard culture Enron was able to be very profitable at first..
 
 In 2001 Enron had to file for insolvency.The hard but toxic culture eventually lead to the **downfall** of Enron- making it a company out of many who concentrated too much on the _visible factors_ and no attention to the _invisible factors_.
 
-# Organizational Culture
-
-## 6.1 Characteristics Soft-Culture
+### 6.1 Characteristics Soft-Culture
 
 A soft culture covers the "invisible" factors of the Iceberg-Model
 
@@ -144,9 +124,7 @@ A soft culture covers the "invisible" factors of the Iceberg-Model
 
 ---
 
-# Organizational Culture
-
-## 6.2 Example: Soft-Culture 3M
+### 6.2 Example: Soft-Culture 3M
 
 3M representor of 20th century innovations:
 
@@ -160,9 +138,7 @@ A soft culture covers the "invisible" factors of the Iceberg-Model
 
 ---
 
-# Organizational Culture
-
-## 6.2 Example: Soft-Culture 3M
+### 6.2 Example: Soft-Culture 3M
 
 As a result of this soft and innovative culture 3M developed a new core competence, because employees developed projects such as:
 
@@ -176,30 +152,24 @@ In the early 1990s 3M seemed to have lost its grip on **financial** and **strate
 
 ---
 
-# Organizational Culture
-
-## 7. Miro Breakout Session
+### 7. Miro Breakout Session
 
 BILD M I R O B R E A K O U T S E S S I O N
 
 ---
 
-# Organizational Culture
+### 8. Implementation
 
-## 8. Implementation
-
-| **Team-oriented approach**      |      Are      |
+| **Team-oriented approach**      |      **HR approach**    |
 | ------------------------------- | :-----------: |
-| Strategy implementation         |   are neat    |
-| Leaders as culture advocates    |   centered    |
-| Vision / Mission implementation | right-aligned |
-| Live company values / morals    |   are neat    |
-| Forge internal connections      |   centered    |
-| Personalize employee experience |   are neat    |
-| Continuous improvement process  |   centered    |
+| Strategy implementation         |Specified hiring process
+| Leaders as culture advocates    |Reward & recognition programs
+| Vision / Mission implementation |Onboarding programs|
+| Live company values / morals    |Assessment instrument  |
+| Forge internal connections      |Employee focus groups  |
+| Personalize employee experience |Perf. management programs
+| Continuous improvement process
 
 ---
 
-# Organizational Culture
-
-## Conclusion
+### Conclusion
