@@ -175,10 +175,8 @@ A soft culture covers the "invisible" factors of the Iceberg-Model:
 | ------------------------------- | ----------------------------- |
 | Strategy implementation         | Specified hiring process      |
 | Leaders as culture advocates    | Reward & recognition programs |
-| Vision / Mission implementation | Onboarding programs           |
+| Personalize employee experience | Onboarding programs           |
 | Live company values / morals    | Assessment instrument         |
-| Forge internal connections      | Employee focus groups         |
-| Personalize employee experience | Perf. management programs     |
 
 ---
 
