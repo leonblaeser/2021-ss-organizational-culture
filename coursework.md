@@ -163,15 +163,15 @@ A soft culture covers the "invisible" factors of the Iceberg-Model:
 
 ---
 
-### Back to the Iceberg-Model
-
-![iceberg2](Iceberg2.jpg)
-
----
-
 ### 7. Miro Breakout Session
 
 ![miro](Miro-Session.jpg)
+
+---
+
+### Back to the Iceberg-Model
+
+![iceberg2](Iceberg2.jpg)
 
 ---
 
