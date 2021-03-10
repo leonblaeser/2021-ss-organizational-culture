@@ -163,7 +163,9 @@ A soft culture covers the "invisible" factors of the Iceberg-Model:
 
 ---
 
-Iceberg neu
+### Back to the Iceberg-Model
+
+![iceberg2](Iceberg2.jpg)
 
 ---
 
@@ -181,6 +183,12 @@ Iceberg neu
 | Leaders as culture advocates    | Reward & recognition programs |
 | Personalize employee experience | Onboarding programs           |
 | Live company values / morals    | Assessment instrument         |
+
+---
+
+### Conclusion
+
+![Conclusion](Conclusion.jpg)
 
 ---
 
