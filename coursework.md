@@ -213,6 +213,14 @@ Result:
 
 ---
 
+### Back to the start
+
+> _"Culture eats strategy."_
+
+Peter F. Druckner (Austrian Management Consultant)
+
+---
+
 # Thank you for your attention!
 
 ## Any questions?
