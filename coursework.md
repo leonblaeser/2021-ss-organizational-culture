@@ -38,7 +38,7 @@ Results from the interplay of:
 
 ... that employees collectively share.
 
-According to this, **every** organization forms a culture that determines the collective organizational behavior **and** behavior of individuals in organizations.
+Organizational culture forms the **action-shaping framework** of a company
 
 ---
 
