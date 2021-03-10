@@ -203,6 +203,16 @@ Result:
 
 ---
 
+### Outlook
+
+- Change of culture due to "New Normal"
+- Leadership becomes increasingly important
+- Trust gets a new threshold
+
+--> Lets see what the future brings...
+
+---
+
 # Thank you for your attention!
 
 ## Any questions?
