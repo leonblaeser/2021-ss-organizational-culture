@@ -73,7 +73,7 @@ We need organizational culture because it supports:
 
 ### 4. Iceberg-Model
 
-![iceberg](Iceberg.jpg)
+![Iceberg](Iceberg.jpg)
 
 ---
 
@@ -165,13 +165,13 @@ A soft culture covers the "invisible" factors of the Iceberg-Model:
 
 ### Back to the Iceberg-Model
 
-![iceberg2](Iceberg2.jpg)
+![Iceberg2](Iceberg2.jpg)
 
 ---
 
 ### 7. Miro Breakout Session
 
-![miro](Miro-Session.jpg)
+![Miro-Session](Miro-Session.jpg)
 
 ---
 
